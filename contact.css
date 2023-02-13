@@ -1,0 +1,88 @@
+body{background-image: url(images/agua.jpg);background-repeat: no-repeat;
+    background-size: cover;
+    opacity: unset;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+font-family: "Poppins", Arial, sans-serif;
+    font-size: 50px;
+    line-height: 1.8;
+    font-weight: normal;
+    color: white;
+    list-style: none;
+    box-sizing: border-box;
+}
+nav{
+    height: 30px;
+    color: white;
+    padding: 5px;
+    height: 80px;
+    margin: 0%;
+   font: italic;
+    font-size: 30px;
+    border-color: aliceblue;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+nav li {
+    display:inline;
+    padding-right:20px;
+}
+nav a:link {
+     color: rgb(18, 17, 17);
+    }
+                
+nav a:visited {
+     color:rgb(0, 0, 0);
+}
+nav a {
+    text-decoration: none;
+    }
+nav a:hover {
+    background-color: black;
+    color: white;
+  box-shadow: 0 0 25px 5px rgb(255, 255, 255);
+}
+    fieldset {
+        padding: 20px;
+        margin-bottom: 10px;
+        display: inline-block;
+        text-align: center;
+        width: 100%;
+        background-color: rgba(240, 248, 255, 0.249);
+        color: black;
+    }
+    input, select {
+        border: 1px solid rgb(255, 255, 255);
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+    
+    input[type="submit"] {
+        background-color: #4CAF50;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 10px;
+    }
+    h1{
+        text-align: center;
+        color: rgba(0, 0, 0, 0.725);
+    }
+    p{
+        text-align: center;
+        color: rgba(0, 0, 0, 0.725);
+    }
+    textarea{
+        resize: none;
+        width: 10%;
+    }
+
+
