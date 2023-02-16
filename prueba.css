@@ -51,15 +51,15 @@ ul{
 }
 li a{
     text-decoration: none;
-    color:#000000;
-    font-family: "proxima-nova",sans-serif;
+    color:#9cb004;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-transform: uppercase;
     text-align: center;
     font-size: 0.78em;
   letter-spacing: .2em
 }
 li a:hover{
-    color:white;
+    color:rgb(255, 255, 255);
   }
   .logo a{
     color:#bbb;
