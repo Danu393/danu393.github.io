@@ -1,4 +1,4 @@
-body{background-image: url(images/agua.jpg);background-repeat: no-repeat;
+body{background-image: url(realmadrid/5.jpg);background-repeat: no-repeat;
     background-size: cover;
     opacity: unset;
     font-size: 20px;
@@ -33,18 +33,18 @@ nav li {
     padding-right:20px;
 }
 nav a:link {
-     color: rgb(18, 17, 17);
+     color: rgb(255, 255, 255);
     }
                 
 nav a:visited {
-     color:rgb(0, 0, 0);
+     color:rgba(6, 71, 236, 0.648);
 }
 nav a {
     text-decoration: none;
     }
 nav a:hover {
-    background-color: black;
-    color: white;
+    background-color: rgba(255, 250, 250, 0.782);
+    color:rgb(0, 72, 255) ;
   box-shadow: 0 0 25px 5px rgb(255, 255, 255);
 }
     fieldset {
@@ -54,7 +54,7 @@ nav a:hover {
         text-align: center;
         width: 100%;
         background-color: rgba(240, 248, 255, 0.249);
-        color: black;
+        color: rgb(0, 0, 0);
     }
     input, select {
         border: 1px solid rgb(255, 255, 255);
@@ -64,7 +64,7 @@ nav a:hover {
     }
     
     input[type="submit"] {
-        background-color: #4CAF50;
+        background-color: #022950;
         color: white;
         padding: 12px 20px;
         border: none;
@@ -74,11 +74,11 @@ nav a:hover {
     }
     h1{
         text-align: center;
-        color: rgba(0, 0, 0, 0.725);
+        color: rgba(178, 199, 255, 0.923);
     }
     p{
         text-align: center;
-        color: rgba(0, 0, 0, 0.725);
+        color:rgba(178, 199, 255, 0.923);
     }
     textarea{
         resize: none;
